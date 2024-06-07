@@ -1,4 +1,4 @@
-package Cap4.Combustivel.Entidades;
+package Cap4.Exercicios.Combustivel.Entidades;
 
 public class Viagem {
     private int Kilometros;

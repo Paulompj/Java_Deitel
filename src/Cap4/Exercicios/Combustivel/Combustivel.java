@@ -1,4 +1,4 @@
-package Cap4.Combustivel;
+package Cap4.Exercicios.Combustivel;
 
 import Cap4.Combustivel.Entidades.Viagem;
 
