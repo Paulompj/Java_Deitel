@@ -1,6 +1,6 @@
 package Cap4.Exercicios.Combustivel;
 
-import Cap4.Combustivel.Entidades.Viagem;
+import Cap4.Exercicios.Combustivel.Entidades.Viagem;
 
 import java.util.ArrayList;
 import java.util.Locale;
